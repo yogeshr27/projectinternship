@@ -1,0 +1,30 @@
+.navpos{
+    position: sticky !important;
+    top: 0 !important;
+}
+.nav-design{
+    font-size:16px;
+    font-weight: 600;
+}
+.about{
+    height:290px;
+    width: 100%;
+    background-image: url(https://www.familylife.com/wp-content/uploads/sites/51/2017/02/10-Ways-To-Romance-Your-Husband_1040x326.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.backborder{
+    height:350px;
+    width: 100%;
+    background-image: url(/img/backborder.png);
+    background-repeat: no-repeat;
+    background-position:top;
+    background-size: 100%;
+}
+.anchor ul a{
+    color:black;
+}
+.anchor ul a:hover{
+    color:blue;
+}
